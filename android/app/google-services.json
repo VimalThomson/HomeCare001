@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926683044798",
+    "firebase_url": " https://homecare03-default-rtdb.firebaseio.com/",
+    "project_id": "homecare03",
+    "storage_bucket": "homecare03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926683044798:android:26f4122f93308acd1637ef",
+        "android_client_info": {
+          "package_name": "net.fluttertutorial.flutter_login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926683044798-nl3d9bkrn284hvdeeotdnc0g6udadma2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdSQmP3l5vUnLIlIDaGL-yVy29lTi7W4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926683044798-nl3d9bkrn284hvdeeotdnc0g6udadma2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
